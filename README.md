@@ -52,7 +52,4 @@
 
 ## Profile Summary
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jessin-Sunny&theme=github)
-
-> “The best way to predict the future is to invent it.” – Alan Kay  
-<!-- Proudly customized with ❤️ using GPRM (https://gprm.itsvg.in) -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alwin-06&theme=github_dark)
