@@ -49,7 +49,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Alwin-06&icon=5&color=6)](https://visitcount.itsvg.in)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=Alwin-06&theme=darkhub&no-frame=true&row=1)
 ## Profile Summary
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alwin-06&theme=github_dark)
