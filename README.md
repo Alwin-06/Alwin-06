@@ -3,14 +3,14 @@
 🚀 Currently diving deep into **Machine Learning** and **Full-stack Development**  
 🛠️ **Skills:** C, Python, Java, MySQL, HTML  
 🧠 **Interests:** System Programming, Operating Systems, Machine Learning  
-📫 **Let’s Connect:** alwinphilip1234@gmail.com  
+📫 **Let’s Connect:** alwinphilipshanty98@gmail.com  
 
 💡 Always open to collaborations, cool project ideas, or even a nerdy tech chat!
 
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alwinphilip)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alwin-philip)
 
 ---
 
