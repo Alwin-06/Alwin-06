@@ -33,7 +33,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Hardware & Low-Level Programming:
 ![Verilog](https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge&logo=verilog&logoColor=white)
@@ -50,6 +49,10 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Alwin-06&icon=5&color=6)](https://visitcount.itsvg.in)
+
+## Profile Summary
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jessin-Sunny&theme=github)
 
 > “The best way to predict the future is to invent it.” – Alan Kay  
 <!-- Proudly customized with ❤️ using GPRM (https://gprm.itsvg.in) -->
