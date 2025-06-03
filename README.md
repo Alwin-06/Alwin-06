@@ -48,11 +48,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alwin-06&color=blue)
 
-![](https://github-readme-stats.vercel.app/api?username=Alwin-06&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alwin-06&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alwin-06&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwin-06&theme=radical&hide_border=false&layout=compact)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwin-06&theme=radical&hide_border=false&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Alwin-06&theme=onedark&no-frame=true&row=1&column=5)
 ## Profile Summary
