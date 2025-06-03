@@ -27,12 +27,15 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Databases:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Hardware & Low-Level Programming:
 ![Verilog](https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge&logo=verilog&logoColor=white)
@@ -49,7 +52,8 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Alwin-06&icon=5&color=6)](https://visitcount.itsvg.in)
-![trophy](https://github-profile-trophy.vercel.app/?username=Alwin-06&theme=darkhub&no-frame=true&row=1)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Alwin-06&theme=onedark&no-frame=true&row=1&column=5)
 ## Profile Summary
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alwin-06&theme=github_dark)
