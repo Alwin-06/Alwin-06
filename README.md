@@ -46,9 +46,9 @@
 
 # 📈 GitHub Stats:
 
-![Profile Views](https://komarev.com/ghpvc/?username=Alwin-06&color=blue)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=Alwin-06&color=blue)-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alwin-06&theme=radical)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alwin-06&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alwin-06&theme=radical&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwin-06&theme=radical&hide_border=false&layout=compact)
 
